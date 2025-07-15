@@ -1,5 +1,6 @@
 <div class="markdown-heading" dir="auto">
-<h1 tabindex="-1" class="heading-element" dir="auto">Learn AI ...</h1>
+<h1 tabindex="-1" class="heading-element" dir="auto">AI for Everyday Life
+</h1>
 <a id="user-content-learn-ai-engineering" class="anchor" aria-label="Permalink: Learn AI Engineering" href="https://github.com/ashishps1/learn-ai-engineering?fbclid=IwY2xjawLipNlleHRuA2FlbQIxMABicmlkETE3VWR5VEpNdDU1a1V3Z3pOAR72OUX3yAbOVcGmtEz17QQ5nBxtmpvNte_YHmEG-sMANjYedZboGxJaRPT8GQ_aem_-6caHo9J9z3s3XStz4fURQ#learn-ai-engineering"><svg class="octicon octicon-link" viewbox="0 0 16 16" width="16" height="16" aria-hidden="true"></svg></a></div>
  
 <div class="markdown-heading" dir="auto">
